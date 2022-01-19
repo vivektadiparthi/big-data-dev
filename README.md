@@ -7,9 +7,9 @@ I am an international student from Hyderabad, India. I pursued my bachelors degr
 My interest lies in mobile computing, so, I would like to work as a mobile app developer in any MNC and have a startup of my own.
 ## Links:
 <ul>
-  <li>[LinkedIn](https://www.linkedin.com/in/vivektadiparthi/)</li>
-  <li>[Github](https://github.com/vivektadiparthi)</li>
-</ul>   
+  <li><a href="https://www.linkedin.com/in/vivektadiparthi/">LinkedIn</li>   
+  <li><a href="https://github.com/vivektadiparthi">Github</li>
+</ul>
 
 ## My pic:   
 ![picture](https://media-exp1.licdn.com/dms/image/C4D03AQEmUX5ba_R4gA/profile-displayphoto-shrink_400_400/0/1610239019881?e=1648080000&v=beta&t=vQQqeCxhxH6tVEdoNA0x8b80F3FkXKbrJ5201HNXeiQ)
